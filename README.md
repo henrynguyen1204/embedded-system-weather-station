@@ -14,9 +14,10 @@ The ESP8266 Weather Station is a project that allows you to create a real-time w
 
 - ESP8266 NodeMCU Lua CP2102
 - TFT ST7735 Display
-- [List any additional hardware components]
+![diagram](https://github.com/henrynguyen1204/embedded-system-weather-station/assets/151434273/e1b8a077-3d13-45ae-a90e-c3687a086cbc)
 
 ## Software Requirements
+
 
 - Arduino IDE
 - ESP8266 Board Package
@@ -25,7 +26,7 @@ The ESP8266 Weather Station is a project that allows you to create a real-time w
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/your-username/esp8266-weather-station.git`
+1. Clone this repository: `git clone https://github.com/henrynguyen1204/embedded-system-weather-station`
 2. Open the Arduino IDE.
 3. Install the necessary libraries mentioned in the "Software Requirements" section.
 4. Configure your hardware connections (see Hardware Setup in the documentation).
@@ -54,10 +55,12 @@ For detailed instructions on setup, configuration, and customization, refer to t
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
-
-- Mention any acknowledgments, contributors, or libraries/tools you utilized.
+-Inspired by https://github.com/shveytank/ESP8266-Weather-Station-V3
+-Adafruit-ST7735-Library https://github.com/adafruit/Adafruit-ST7735-Library
+-ThingPulse ESP8266 Weather Station Library https://github.com/ThingPulse/esp8266-weather-station
+-NTPClient Library: https://github.com/arduino-libraries/NTPClient
 
 ## Contact
 
-[Your Name] - [Your Email] - [Link to your personal website or LinkedIn profile]
+Henry Nguyen - sinhhoc2002@gmail.com
 
