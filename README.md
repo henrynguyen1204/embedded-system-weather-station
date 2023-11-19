@@ -38,9 +38,6 @@ The ESP8266 Weather Station is a project that allows you to create a real-time w
 - Power up the ESP8266 Weather Station.
 - The TFT Display will show real-time weather information for the specified location.
 
-## Documentation
-
-For detailed instructions on setup, configuration, and customization, refer to the [documentation](link-to-your-documentation).
 
 ## Contributing
 
