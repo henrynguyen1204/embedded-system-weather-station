@@ -52,10 +52,10 @@ The ESP8266 Weather Station is a project that allows you to create a real-time w
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
--Inspired by https://github.com/shveytank/ESP8266-Weather-Station-V3
--Adafruit-ST7735-Library https://github.com/adafruit/Adafruit-ST7735-Library
--ThingPulse ESP8266 Weather Station Library https://github.com/ThingPulse/esp8266-weather-station
--NTPClient Library: https://github.com/arduino-libraries/NTPClient
+<p>-Inspired by https://github.com/shveytank/ESP8266-Weather-Station-V3</p>
+<p>-Adafruit-ST7735-Library https://github.com/adafruit/Adafruit-ST7735-Library</p>
+<p>-ThingPulse ESP8266 Weather Station Library https://github.com/ThingPulse/esp8266-weather-station</p>
+<p>-NTPClient Library: https://github.com/arduino-libraries/NTPClient</p>
 
 ## Contact
 
