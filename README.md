@@ -47,9 +47,6 @@ The ESP8266 Weather Station is a project that allows you to create a real-time w
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 <p>-Inspired by https://github.com/shveytank/ESP8266-Weather-Station-V3</p>
